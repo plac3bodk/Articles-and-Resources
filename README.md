@@ -4,9 +4,9 @@ List of articles, resources and tutorials for different languages
 
 ## List of contents
 
-### [CSS] (https://github.com/plac3bodk/Articles-and-Resources/blob/master/README.md#css)
+[CSS] (https://github.com/plac3bodk/Articles-and-Resources/blob/master/README.md#css)
 
-### [Python] (https://github.com/plac3bodk/Articles-and-Resources/blob/master/README.md#python)
+[Python] (https://github.com/plac3bodk/Articles-and-Resources/blob/master/README.md#python)
 
 ## CSS
 
