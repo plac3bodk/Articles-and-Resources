@@ -12,15 +12,15 @@ List of articles, resources and tutorials for different languages
 
 ## CSS
 
-[https://dev.to/iamschulz/animation-for-developers-c4b](https://dev.to/iamschulz/animation-for-developers-c4b)
+[Animation for Developers](https://dev.to/iamschulz/animation-for-developers-c4b)
 
-[https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/)
+[Animate.css](https://daneden.github.io/animate.css/)
 
-[https://wowjs.uk/](https://wowjs.uk/)
+[WOW.js - Good with Animate.css](https://wowjs.uk/)
 
 ## PostgreSQL
 
-[https://www.youtube.com/watch?v=qw--VYLpxG4](https://www.youtube.com/watch?v=qw--VYLpxG4)
+[Full beginner course](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
 ## Python
 
