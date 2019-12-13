@@ -2,6 +2,12 @@
 
 List of articles, resources and tutorials for different languages
 
+## List of contents
+
+### [CSS] (https://github.com/plac3bodk/Articles-and-Resources/blob/master/README.md#css)
+
+### [Python] (https://github.com/plac3bodk/Articles-and-Resources/blob/master/README.md#python)
+
 ## CSS
 
 [https://dev.to/iamschulz/animation-for-developers-c4b](https://dev.to/iamschulz/animation-for-developers-c4b)
