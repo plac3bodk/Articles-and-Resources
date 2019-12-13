@@ -1,12 +1,12 @@
 # Articles and resources
 
-## List of articles, resources and tutorials for different languages
+List of articles, resources and tutorials for different languages
 
-### CSS
+## CSS
 
 [https://dev.to/iamschulz/animation-for-developers-c4b](https://dev.to/iamschulz/animation-for-developers-c4b)
 
-### Python
+## Python
 
 [http://books.agiliq.com/projects/djenofdjango/en/latest/index.html](http://books.agiliq.com/projects/djenofdjango/en/latest/index.html)
 
