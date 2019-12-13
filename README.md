@@ -6,6 +6,8 @@ List of articles, resources and tutorials for different languages
 
 [CSS](https://github.com/plac3bodk/Articles-and-Resources/blob/master/README.md#css)
 
+[PostgreSQL](https://github.com/plac3bodk/Articles-and-Resources/blob/master/README.md#postgresql)
+
 [Python](https://github.com/plac3bodk/Articles-and-Resources/blob/master/README.md#python)
 
 ## CSS
@@ -15,6 +17,10 @@ List of articles, resources and tutorials for different languages
 [https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/)
 
 [https://wowjs.uk/](https://wowjs.uk/)
+
+## PostgreSQL
+
+[https://www.youtube.com/watch?v=qw--VYLpxG4](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
 ## Python
 
