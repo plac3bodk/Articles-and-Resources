@@ -6,6 +6,9 @@ List of articles, resources and tutorials for different languages
 
 [https://dev.to/iamschulz/animation-for-developers-c4b](https://dev.to/iamschulz/animation-for-developers-c4b)
 
+[https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/)
+[https://wowjs.uk/](https://wowjs.uk/)
+
 ## Python
 
 [http://books.agiliq.com/projects/djenofdjango/en/latest/index.html](http://books.agiliq.com/projects/djenofdjango/en/latest/index.html)
