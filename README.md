@@ -10,7 +10,7 @@ List of articles, resources and tutorials for different languages
 
 [Python](https://github.com/plac3bodk/Articles-and-Resources/blob/master/README.md#python)
 
-## CSS
+### CSS
 
 [Animation for Developers](https://dev.to/iamschulz/animation-for-developers-c4b)
 
@@ -18,11 +18,11 @@ List of articles, resources and tutorials for different languages
 
 [WOW.js - Good with Animate.css](https://wowjs.uk/)
 
-## PostgreSQL
+### PostgreSQL
 
 [Full beginner course](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
-## Python
+### Python
 
 [http://books.agiliq.com/projects/djenofdjango/en/latest/index.html](http://books.agiliq.com/projects/djenofdjango/en/latest/index.html)
 
