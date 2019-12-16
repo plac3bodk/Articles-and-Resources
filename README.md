@@ -29,3 +29,5 @@ List of articles, resources and tutorials for different languages
 [https://school.geekwall.in/python](https://school.geekwall.in/python)
 
 [https://www.reddit.com/r/Python/comments/e951ij/django_30_full_course_for_beginners_django_is_a/](https://www.reddit.com/r/Python/comments/e951ij/django_30_full_course_for_beginners_django_is_a/)
+
+[Several Django, Flask etc. courses](https://prettyprinted.com/)
