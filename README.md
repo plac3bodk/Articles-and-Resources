@@ -10,6 +10,8 @@ List of articles, resources and tutorials for different languages
 
 [Python](https://github.com/plac3bodk/Articles-and-Resources/blob/master/README.md#python)
 
+
+
 ### CSS
 
 [Animation for Developers](https://dev.to/iamschulz/animation-for-developers-c4b)
@@ -31,6 +33,8 @@ List of articles, resources and tutorials for different languages
 [https://www.reddit.com/r/Python/comments/e951ij/django_30_full_course_for_beginners_django_is_a/](https://www.reddit.com/r/Python/comments/e951ij/django_30_full_course_for_beginners_django_is_a/)
 
 [Several Django, Flask etc. courses](https://prettyprinted.com/)
+
+[Django Portfolio](https://realpython.com/get-started-with-django-1/#showcase-your-projects)
 
 ### Forums
 [Dev.to](https://dev.to)
