@@ -39,4 +39,6 @@ List of articles, resources and tutorials for different languages
 ### Forums
 [Dev.to](https://dev.to)
 
-### Free cources [450 free Ivy League courses](https://www.freecodecamp.org/news/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c/)
+### Free cources 
+
+[450 free Ivy League courses](https://www.freecodecamp.org/news/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c/)
